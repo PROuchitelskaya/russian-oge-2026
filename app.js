@@ -477,7 +477,7 @@
   // ============================================================
   //  CERTIFICATE + EXPORT
   // ============================================================
-  const QUEST_URL = "https://andreycoderr.github.io/russian-oge-2026/";
+  const QUEST_URL = "https://prouchitelskaya.github.io/russian-oge-2026/";
 
   function showCertificate() {
     const earned = earnedStars();
